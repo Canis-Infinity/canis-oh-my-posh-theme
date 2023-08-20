@@ -1,4 +1,5 @@
 # canis-oh-my-posh-theme
+[theme_preview](canis.png)
 ## 中文
 如果你想要使用這個主題，可以按照下面的流程：
 1. 下載 `canis.omp.json`，並把它移動到 oh-my-posh 的 theme 資料夾
